@@ -6,7 +6,7 @@ def create_an_array
   [sock, sandal, shoe, slipper]
 end
 
-def add_element_to_end_of_array(array, element)
+def add_element_to_end_of_array(arr, element)
   array.push(element)
 end
 
